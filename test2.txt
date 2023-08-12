@@ -1,1 +1,4 @@
 badass nitsche test 2 nice work
+
+
+test2 dosyamızı tes-branch icerisinde degistiriyorum.
